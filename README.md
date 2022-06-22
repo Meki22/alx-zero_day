@@ -1,2 +1,1 @@
-My first readme
-only for this task
+my first readme only for this task
